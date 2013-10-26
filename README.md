@@ -1,4 +1,4 @@
 test_repo_swc_bootcamp
 ======================
 
-Software Carpentry Repository
+This is a test repository for the Software Carpentry Bootcamp
